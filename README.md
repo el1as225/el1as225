@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Applications
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me Discord: pzoido
+- ⚡ Fun fact: You can find me on Google
 
 <!---
 el1as225/el1as225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
