@@ -2,8 +2,7 @@
 - 👀 I’m interested in Web Development, Cybersecuruty
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord:   pzoido
-                      Mail:     mail@el1as225.com
+- 📫 How to reach me Discord: pzoido,  Mail: mail@el1as225.com
 - ⚡ Fun fact: You can find me on Google
 
 <!---
