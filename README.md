@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @el1as225
-- 👀 I’m interested in Web Development, Cybersecuruty
+- 👀 I’m interested in Web Development, Cybersecurity
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: pzoido,  Mail: mail@el1as225.com
